@@ -27,10 +27,10 @@ Please installed these VS Code extensions for syntax highlighting and auto-forma
 ![GraphQL Extension for VS Code](https://i.imgur.com/Lbsk1TY.png)<figcaption>GraphQL Extension for VS Code</figcaption>
 
 ## Install Frontend
-[Check Readme file for install instructions](https://github.com/dvikas/next-graphql-admin/tree/main/web-app)
+[Check Readme file for install instructions](https://github.com/blangka/next-graphql-admin/tree/main/web-app)
 
 ## Install Backend
-[Check Readme file for install instructions](https://github.com/dvikas/next-graphql-admin/tree/main/api)
+[Check Readme file for install instructions](https://github.com/blangka/next-graphql-admin/tree/main/api)
 
 ## Screenshots
 ![Dashboard](https://i.imgur.com/rZs1OEo.png)<figcaption>Dashboard</figcaption>
